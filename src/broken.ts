@@ -10,5 +10,5 @@ class Greeter {
 	message;
 	constructor(msg) {
 		this.message = msg;
-	} // Missing property type declaration and parameter type
+	} 
 }
